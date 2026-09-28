@@ -17,3 +17,7 @@ Regression
 
 ## Evaluation Metric
 Mean Absolute Error (MAE)
+
+## Project Status
+
+Initial machine learning models have been trained and evaluated using MAE and RMSE.
